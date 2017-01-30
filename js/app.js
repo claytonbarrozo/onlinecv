@@ -14,4 +14,4 @@ function setBindings(){
 		}, 1000)
 
 	});
-}
+} 
